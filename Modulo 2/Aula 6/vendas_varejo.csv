@@ -1,0 +1,1001 @@
+Data,Cidade,Produto,Qtd_Venda,Preco_Unitario,Desconto_Percentual,Total_Venda,Mes
+2024-01-01,Curitiba,Tablet,7,939.9,0.05,6250.335,January
+2024-01-02,Porto Alegre,Tablet,9,2857.82,0.05,24434.361,January
+2024-01-03,Belo Horizonte,Tablet,9,2800.18,0.1,22681.458,January
+2024-01-04,Porto Alegre,Tablet,9,3857.13,0.15,29507.044499999996,January
+2024-01-05,Porto Alegre,Fone de Ouvido,2,4201.52,0.0,8403.04,January
+2024-01-06,Rio de Janeiro,Fone de Ouvido,3,2314.12,0.1,6248.124,January
+2024-01-07,Belo Horizonte,Smartphone,7,1651.2,0.1,10402.56,January
+2024-01-08,Belo Horizonte,Notebook,5,1444.81,0.0,7224.049999999999,January
+2024-01-09,Belo Horizonte,Tablet,2,1134.19,0.1,2041.5420000000001,January
+2024-01-10,Porto Alegre,Smartphone,3,476.71,0.0,1430.1299999999999,January
+2024-01-11,Curitiba,Notebook,6,1843.75,0.15,9403.125,January
+2024-01-12,Belo Horizonte,Smartwatch,7,1497.19,0.05,9956.3135,January
+2024-01-13,Porto Alegre,Fone de Ouvido,9,4838.8,0.15,37016.82,January
+2024-01-14,Rio de Janeiro,Notebook,1,2877.0,0.05,2733.15,January
+2024-01-15,Curitiba,Smartwatch,7,1866.93,0.0,13068.51,January
+2024-01-16,Rio de Janeiro,Notebook,8,2986.24,0.05,22695.424,January
+2024-01-17,Curitiba,Fone de Ouvido,3,868.14,0.15,2213.757,January
+2024-01-18,Porto Alegre,Fone de Ouvido,4,2331.41,0.05,8859.357999999998,January
+2024-01-19,São Paulo,Smartphone,6,3205.92,0.0,19235.52,January
+2024-01-20,Curitiba,Tablet,7,2546.71,0.05,16935.6215,January
+2024-01-21,Rio de Janeiro,Notebook,4,2128.54,0.1,7662.744,January
+2024-01-22,Porto Alegre,Notebook,8,4970.47,0.15,33799.196,January
+2024-01-23,Curitiba,Smartwatch,5,4425.51,0.1,19914.795000000002,January
+2024-01-24,São Paulo,Fone de Ouvido,1,3192.35,0.0,3192.35,January
+2024-01-25,São Paulo,Notebook,4,2933.01,0.05,11145.438,January
+2024-01-26,Belo Horizonte,Fone de Ouvido,3,3179.17,0.1,8583.759,January
+2024-01-27,Belo Horizonte,Notebook,9,1166.3,0.1,9447.029999999999,January
+2024-01-28,Rio de Janeiro,Smartphone,8,2096.66,0.05,15934.615999999998,January
+2024-01-29,Curitiba,Tablet,1,389.41,0.05,369.9395,January
+2024-01-30,Curitiba,Notebook,6,2482.62,0.15,12661.362,January
+2024-01-31,Belo Horizonte,Fone de Ouvido,9,2806.52,0.1,22732.812,January
+2024-02-01,Curitiba,Smartphone,7,1293.2,0.1,8147.16,February
+2024-02-02,Curitiba,Notebook,4,4827.34,0.0,19309.36,February
+2024-02-03,São Paulo,Smartwatch,1,4565.38,0.15,3880.573,February
+2024-02-04,Belo Horizonte,Tablet,2,3666.29,0.0,7332.58,February
+2024-02-05,Porto Alegre,Notebook,5,2760.26,0.1,12421.170000000002,February
+2024-02-06,Belo Horizonte,Smartphone,5,4375.85,0.0,21879.25,February
+2024-02-07,Porto Alegre,Smartwatch,8,827.13,0.1,5955.336,February
+2024-02-08,São Paulo,Smartphone,6,3994.45,0.1,21570.03,February
+2024-02-09,Rio de Janeiro,Smartphone,8,799.14,0.0,6393.12,February
+2024-02-10,Curitiba,Smartwatch,2,4012.21,0.0,8024.42,February
+2024-02-11,São Paulo,Smartphone,3,1523.68,0.05,4342.487999999999,February
+2024-02-12,Curitiba,Smartwatch,6,4410.03,0.05,25137.171,February
+2024-02-13,Rio de Janeiro,Notebook,3,4731.4,0.05,13484.489999999998,February
+2024-02-14,Rio de Janeiro,Smartwatch,6,914.22,0.1,4936.788,February
+2024-02-15,São Paulo,Smartwatch,6,2420.84,0.0,14525.04,February
+2024-02-16,Rio de Janeiro,Tablet,2,4908.74,0.15,8344.858,February
+2024-02-17,Porto Alegre,Smartwatch,7,2520.36,0.1,15878.268,February
+2024-02-18,Rio de Janeiro,Smartwatch,2,4345.03,0.15,7386.5509999999995,February
+2024-02-19,Curitiba,Notebook,6,3025.91,0.0,18155.46,February
+2024-02-20,Curitiba,Tablet,1,2001.58,0.1,1801.422,February
+2024-02-21,Curitiba,Fone de Ouvido,3,1571.76,0.15,4007.988,February
+2024-02-22,Curitiba,Notebook,2,1175.47,0.15,1998.299,February
+2024-02-23,Porto Alegre,Notebook,7,3856.63,0.05,25646.5895,February
+2024-02-24,Belo Horizonte,Fone de Ouvido,4,2055.39,0.05,7810.481999999999,February
+2024-02-25,São Paulo,Smartwatch,8,2654.12,0.05,20171.311999999998,February
+2024-02-26,Curitiba,Smartphone,6,2563.16,0.1,13841.064,February
+2024-02-27,Rio de Janeiro,Tablet,4,2970.94,0.0,11883.76,February
+2024-02-28,Curitiba,Smartphone,5,4354.77,0.0,21773.850000000002,February
+2024-02-29,Rio de Janeiro,Fone de Ouvido,9,4907.55,0.05,41959.552500000005,February
+2024-03-01,Rio de Janeiro,Notebook,7,2156.4,0.05,14340.06,March
+2024-03-02,Curitiba,Notebook,9,4172.09,0.05,35671.36949999999,March
+2024-03-03,Porto Alegre,Tablet,7,3869.73,0.15,23024.8935,March
+2024-03-04,Rio de Janeiro,Notebook,1,2952.94,0.05,2805.293,March
+2024-03-05,Rio de Janeiro,Notebook,8,4789.03,0.15,32565.404,March
+2024-03-06,Curitiba,Tablet,4,1162.28,0.0,4649.12,March
+2024-03-07,Rio de Janeiro,Tablet,3,724.47,0.1,1956.069,March
+2024-03-08,Rio de Janeiro,Fone de Ouvido,7,4299.02,0.1,27083.826000000005,March
+2024-03-09,Curitiba,Notebook,3,2307.92,0.1,6231.384,March
+2024-03-10,Curitiba,Notebook,8,4265.45,0.1,30711.239999999998,March
+2024-03-11,São Paulo,Fone de Ouvido,6,4486.83,0.15,22882.833,March
+2024-03-12,Porto Alegre,Smartwatch,5,499.8,0.15,2124.15,March
+2024-03-13,Porto Alegre,Smartwatch,4,4440.63,0.05,16874.394,March
+2024-03-14,Rio de Janeiro,Smartwatch,8,2351.93,0.15,15993.123999999998,March
+2024-03-15,Porto Alegre,Fone de Ouvido,8,2650.08,0.05,20140.608,March
+2024-03-16,Rio de Janeiro,Notebook,1,3207.64,0.05,3047.258,March
+2024-03-17,São Paulo,Fone de Ouvido,9,4646.64,0.1,37637.784,March
+2024-03-18,Curitiba,Fone de Ouvido,5,291.76,0.15,1239.98,March
+2024-03-19,Curitiba,Smartwatch,4,2488.85,0.15,8462.09,March
+2024-03-20,Curitiba,Smartphone,6,3501.07,0.05,19956.099000000002,March
+2024-03-21,Porto Alegre,Notebook,6,3668.99,0.05,20913.243,March
+2024-03-22,São Paulo,Smartwatch,2,3524.16,0.0,7048.32,March
+2024-03-23,Porto Alegre,Smartphone,8,845.29,0.0,6762.32,March
+2024-03-24,Porto Alegre,Smartphone,7,1637.1,0.05,10886.714999999998,March
+2024-03-25,São Paulo,Tablet,1,1921.83,0.0,1921.83,March
+2024-03-26,São Paulo,Notebook,5,4061.3,0.0,20306.5,March
+2024-03-27,São Paulo,Smartphone,6,1538.05,0.05,8766.884999999998,March
+2024-03-28,São Paulo,Smartwatch,4,1211.38,0.05,4603.244000000001,March
+2024-03-29,Curitiba,Tablet,2,4795.75,0.15,8152.775,March
+2024-03-30,Belo Horizonte,Notebook,4,242.54,0.05,921.6519999999999,March
+2024-03-31,Belo Horizonte,Fone de Ouvido,1,4989.54,0.05,4740.063,March
+2024-04-01,São Paulo,Smartwatch,7,3448.74,0.1,21727.062,April
+2024-04-02,Belo Horizonte,Smartphone,2,4176.65,0.15,7100.304999999999,April
+2024-04-03,Belo Horizonte,Smartphone,2,1614.17,0.15,2744.089,April
+2024-04-04,São Paulo,Smartwatch,9,268.71,0.15,2055.6315,April
+2024-04-05,Belo Horizonte,Smartphone,5,3741.77,0.1,16837.965,April
+2024-04-06,Porto Alegre,Tablet,2,4203.89,0.05,7987.3910000000005,April
+2024-04-07,Rio de Janeiro,Notebook,9,3754.29,0.15,28720.3185,April
+2024-04-08,Rio de Janeiro,Tablet,9,885.68,0.15,6775.451999999999,April
+2024-04-09,São Paulo,Smartphone,1,3816.45,0.0,3816.45,April
+2024-04-10,Curitiba,Fone de Ouvido,3,3890.83,0.15,9921.6165,April
+2024-04-11,São Paulo,Notebook,4,3360.99,0.05,12771.761999999999,April
+2024-04-12,Curitiba,Notebook,7,3877.36,0.05,25784.444,April
+2024-04-13,Rio de Janeiro,Smartwatch,4,4260.42,0.0,17041.68,April
+2024-04-14,São Paulo,Smartwatch,2,3145.3,0.15,5347.01,April
+2024-04-15,Porto Alegre,Fone de Ouvido,7,625.3,0.15,3720.5349999999994,April
+2024-04-16,Belo Horizonte,Notebook,6,2540.61,0.15,12957.110999999999,April
+2024-04-17,Curitiba,Fone de Ouvido,3,572.72,0.1,1546.344,April
+2024-04-18,Belo Horizonte,Smartwatch,6,2156.21,0.15,10996.671,April
+2024-04-19,Belo Horizonte,Smartwatch,6,2154.11,0.05,12278.427,April
+2024-04-20,São Paulo,Notebook,5,516.85,0.05,2455.0375,April
+2024-04-21,Belo Horizonte,Tablet,4,1874.34,0.1,6747.624,April
+2024-04-22,Porto Alegre,Smartphone,1,732.79,0.1,659.511,April
+2024-04-23,Belo Horizonte,Smartwatch,6,4079.53,0.15,20805.603,April
+2024-04-24,São Paulo,Smartwatch,2,4748.9,0.0,9497.8,April
+2024-04-25,Porto Alegre,Tablet,3,547.12,0.1,1477.2240000000002,April
+2024-04-26,Rio de Janeiro,Tablet,8,4784.55,0.1,34448.76,April
+2024-04-27,Belo Horizonte,Fone de Ouvido,6,2708.37,0.15,13812.687,April
+2024-04-28,São Paulo,Fone de Ouvido,3,1637.92,0.15,4176.696,April
+2024-04-29,Rio de Janeiro,Smartphone,7,568.94,0.1,3584.3220000000006,April
+2024-04-30,Rio de Janeiro,Smartphone,4,2603.0,0.0,10412.0,April
+2024-05-01,Curitiba,Notebook,9,4013.67,0.1,32510.727,May
+2024-05-02,Porto Alegre,Fone de Ouvido,5,3594.02,0.15,15274.585,May
+2024-05-03,Belo Horizonte,Smartwatch,3,441.08,0.15,1124.754,May
+2024-05-04,São Paulo,Fone de Ouvido,2,549.93,0.1,989.8739999999999,May
+2024-05-05,Curitiba,Smartwatch,2,2133.79,0.0,4267.58,May
+2024-05-06,Porto Alegre,Tablet,3,1617.39,0.1,4366.953,May
+2024-05-07,Curitiba,Fone de Ouvido,2,1315.44,0.1,2367.7920000000004,May
+2024-05-08,Porto Alegre,Tablet,4,1548.82,0.15,5265.987999999999,May
+2024-05-09,Porto Alegre,Smartphone,2,4056.72,0.0,8113.44,May
+2024-05-10,Belo Horizonte,Smartphone,9,4660.29,0.05,39845.4795,May
+2024-05-11,Porto Alegre,Notebook,2,2144.49,0.0,4288.98,May
+2024-05-12,Curitiba,Fone de Ouvido,9,4549.33,0.1,36849.573000000004,May
+2024-05-13,Porto Alegre,Tablet,6,1743.18,0.1,9413.172,May
+2024-05-14,Belo Horizonte,Smartwatch,1,2486.9,0.1,2238.21,May
+2024-05-15,Belo Horizonte,Smartphone,4,1284.94,0.0,5139.76,May
+2024-05-16,Curitiba,Smartphone,1,3274.29,0.15,2783.1465,May
+2024-05-17,Rio de Janeiro,Smartwatch,6,4899.11,0.1,26455.193999999996,May
+2024-05-18,Rio de Janeiro,Tablet,4,3096.77,0.1,11148.372,May
+2024-05-19,Porto Alegre,Tablet,3,1917.51,0.0,5752.53,May
+2024-05-20,São Paulo,Fone de Ouvido,3,3309.52,0.05,9432.132,May
+2024-05-21,Porto Alegre,Fone de Ouvido,9,790.02,0.05,6754.671,May
+2024-05-22,Curitiba,Notebook,6,4465.56,0.15,22774.356,May
+2024-05-23,Curitiba,Smartphone,9,2614.8,0.15,20003.22,May
+2024-05-24,Curitiba,Fone de Ouvido,5,2356.88,0.1,10605.960000000001,May
+2024-05-25,Curitiba,Tablet,2,3012.15,0.0,6024.3,May
+2024-05-26,Curitiba,Smartwatch,8,3198.96,0.1,23032.512000000002,May
+2024-05-27,Belo Horizonte,Tablet,5,544.52,0.15,2314.21,May
+2024-05-28,Rio de Janeiro,Smartphone,2,3476.56,0.0,6953.12,May
+2024-05-29,Curitiba,Tablet,4,1361.27,0.0,5445.08,May
+2024-05-30,São Paulo,Notebook,9,3626.97,0.15,27746.320499999998,May
+2024-05-31,São Paulo,Smartphone,4,4148.17,0.05,15763.046,May
+2024-06-01,São Paulo,Smartwatch,4,4059.0,0.05,15424.199999999999,June
+2024-06-02,São Paulo,Notebook,2,2852.0,0.0,5704.0,June
+2024-06-03,Belo Horizonte,Smartphone,6,2696.82,0.1,14562.828000000001,June
+2024-06-04,São Paulo,Smartwatch,2,885.8,0.05,1683.0199999999998,June
+2024-06-05,Curitiba,Notebook,7,3921.66,0.1,24706.458,June
+2024-06-06,Porto Alegre,Notebook,3,1502.77,0.05,4282.894499999999,June
+2024-06-07,São Paulo,Smartphone,3,2584.14,0.05,7364.799,June
+2024-06-08,Belo Horizonte,Fone de Ouvido,5,1564.52,0.1,7040.34,June
+2024-06-09,Belo Horizonte,Notebook,3,842.38,0.15,2148.069,June
+2024-06-10,São Paulo,Notebook,2,3221.88,0.05,6121.572,June
+2024-06-11,Porto Alegre,Smartwatch,9,460.79,0.05,3939.7545000000005,June
+2024-06-12,São Paulo,Tablet,2,3793.5,0.1,6828.3,June
+2024-06-13,Belo Horizonte,Smartphone,2,1724.42,0.15,2931.514,June
+2024-06-14,Rio de Janeiro,Smartphone,8,200.65,0.05,1524.94,June
+2024-06-15,Curitiba,Fone de Ouvido,9,2653.42,0.05,22686.740999999998,June
+2024-06-16,Belo Horizonte,Fone de Ouvido,7,424.89,0.15,2528.0955,June
+2024-06-17,São Paulo,Smartphone,3,1525.61,0.05,4347.9884999999995,June
+2024-06-18,Curitiba,Fone de Ouvido,9,3593.49,0.15,27490.198499999995,June
+2024-06-19,São Paulo,Smartwatch,3,500.91,0.15,1277.3205,June
+2024-06-20,São Paulo,Smartphone,5,4228.82,0.1,19029.69,June
+2024-06-21,Rio de Janeiro,Fone de Ouvido,9,218.34,0.0,1965.06,June
+2024-06-22,Curitiba,Smartphone,3,1384.75,0.15,3531.1124999999997,June
+2024-06-23,Curitiba,Tablet,7,3756.34,0.1,23664.942000000003,June
+2024-06-24,Rio de Janeiro,Notebook,1,1718.1,0.0,1718.1,June
+2024-06-25,Belo Horizonte,Smartphone,4,689.08,0.05,2618.504,June
+2024-06-26,São Paulo,Notebook,4,1929.12,0.0,7716.48,June
+2024-06-27,Porto Alegre,Fone de Ouvido,7,1497.89,0.15,8912.445500000002,June
+2024-06-28,São Paulo,Notebook,8,4245.02,0.15,28866.136000000002,June
+2024-06-29,São Paulo,Smartphone,1,1704.07,0.15,1448.4595,June
+2024-06-30,Belo Horizonte,Tablet,5,3986.88,0.15,16944.24,June
+2024-07-01,São Paulo,Fone de Ouvido,7,4480.99,0.15,26661.8905,July
+2024-07-02,Rio de Janeiro,Smartphone,4,2282.32,0.1,8216.352,July
+2024-07-03,Rio de Janeiro,Fone de Ouvido,4,4567.73,0.15,15530.281999999997,July
+2024-07-04,Curitiba,Smartwatch,4,2011.13,0.1,7240.068,July
+2024-07-05,Porto Alegre,Notebook,6,4827.58,0.05,27517.206,July
+2024-07-06,São Paulo,Smartwatch,7,628.59,0.15,3740.1105,July
+2024-07-07,São Paulo,Smartphone,2,3497.69,0.15,5946.073,July
+2024-07-08,Belo Horizonte,Tablet,5,2570.31,0.0,12851.55,July
+2024-07-09,Rio de Janeiro,Fone de Ouvido,4,2060.71,0.05,7830.697999999999,July
+2024-07-10,Porto Alegre,Notebook,3,3237.02,0.15,8254.401,July
+2024-07-11,Curitiba,Fone de Ouvido,7,3578.51,0.15,21292.1345,July
+2024-07-12,Rio de Janeiro,Smartphone,6,220.94,0.05,1259.3579999999997,July
+2024-07-13,Curitiba,Fone de Ouvido,7,1001.37,0.1,6308.631,July
+2024-07-14,Belo Horizonte,Notebook,5,3622.62,0.15,15396.134999999998,July
+2024-07-15,Belo Horizonte,Smartphone,6,3398.65,0.0,20391.9,July
+2024-07-16,São Paulo,Fone de Ouvido,5,4837.03,0.15,20557.3775,July
+2024-07-17,Porto Alegre,Tablet,7,3852.98,0.0,26970.86,July
+2024-07-18,Curitiba,Smartphone,2,4763.71,0.0,9527.42,July
+2024-07-19,Rio de Janeiro,Smartphone,5,3572.19,0.15,15181.8075,July
+2024-07-20,Belo Horizonte,Tablet,6,1630.65,0.15,8316.315,July
+2024-07-21,São Paulo,Smartwatch,6,705.75,0.0,4234.5,July
+2024-07-22,São Paulo,Notebook,5,3952.75,0.05,18775.5625,July
+2024-07-23,Curitiba,Smartwatch,7,3291.92,0.05,21891.268,July
+2024-07-24,Belo Horizonte,Fone de Ouvido,8,431.29,0.15,2932.772,July
+2024-07-25,Porto Alegre,Tablet,7,1928.24,0.1,12147.912,July
+2024-07-26,Belo Horizonte,Smartwatch,5,4792.64,0.05,22765.04,July
+2024-07-27,Curitiba,Smartphone,1,2601.93,0.15,2211.6405,July
+2024-07-28,Curitiba,Fone de Ouvido,5,2277.1,0.05,10816.225,July
+2024-07-29,Belo Horizonte,Fone de Ouvido,2,2396.96,0.1,4314.528,July
+2024-07-30,Curitiba,Smartwatch,5,1202.64,0.15,5111.22,July
+2024-07-31,Belo Horizonte,Smartwatch,5,1969.79,0.1,8864.055,July
+2024-08-01,Rio de Janeiro,Tablet,2,1975.1,0.15,3357.6699999999996,August
+2024-08-02,Belo Horizonte,Notebook,5,451.3,0.1,2030.8500000000001,August
+2024-08-03,Belo Horizonte,Smartwatch,4,3884.32,0.05,14760.416,August
+2024-08-04,Curitiba,Smartwatch,1,2199.22,0.05,2089.2589999999996,August
+2024-08-05,Curitiba,Smartphone,3,4146.46,0.1,11195.442000000001,August
+2024-08-06,São Paulo,Fone de Ouvido,1,4281.67,0.1,3853.503,August
+2024-08-07,São Paulo,Notebook,5,1217.57,0.1,5479.065,August
+2024-08-08,Rio de Janeiro,Smartphone,4,3355.3,0.15,11408.02,August
+2024-08-09,São Paulo,Tablet,7,2466.95,0.05,16405.2175,August
+2024-08-10,Belo Horizonte,Tablet,5,4424.75,0.15,18805.1875,August
+2024-08-11,Curitiba,Smartwatch,4,1235.56,0.05,4695.128,August
+2024-08-12,São Paulo,Smartwatch,2,3453.5,0.0,6907.0,August
+2024-08-13,São Paulo,Tablet,4,3117.21,0.15,10598.514,August
+2024-08-14,Rio de Janeiro,Smartwatch,2,1617.45,0.05,3073.1549999999997,August
+2024-08-15,Rio de Janeiro,Notebook,8,855.68,0.05,6503.168,August
+2024-08-16,Belo Horizonte,Smartwatch,3,3327.87,0.15,8486.0685,August
+2024-08-17,Curitiba,Fone de Ouvido,9,3745.27,0.15,28651.3155,August
+2024-08-18,Rio de Janeiro,Smartwatch,4,1715.01,0.05,6517.038,August
+2024-08-19,São Paulo,Smartphone,6,3295.2,0.15,16805.519999999997,August
+2024-08-20,Curitiba,Notebook,5,2096.63,0.1,9434.835000000001,August
+2024-08-21,Curitiba,Smartphone,1,3623.39,0.15,3079.8815,August
+2024-08-22,São Paulo,Smartphone,9,1156.23,0.15,8845.1595,August
+2024-08-23,Rio de Janeiro,Fone de Ouvido,1,4473.03,0.15,3802.0754999999995,August
+2024-08-24,São Paulo,Notebook,8,1579.57,0.05,12004.731999999998,August
+2024-08-25,Curitiba,Notebook,9,1965.37,0.1,15919.497,August
+2024-08-26,Porto Alegre,Notebook,9,478.84,0.0,4309.5599999999995,August
+2024-08-27,Porto Alegre,Notebook,1,735.26,0.0,735.26,August
+2024-08-28,Belo Horizonte,Notebook,2,2676.14,0.1,4817.052,August
+2024-08-29,São Paulo,Fone de Ouvido,1,1484.44,0.1,1335.996,August
+2024-08-30,São Paulo,Smartwatch,2,4210.31,0.1,7578.558000000001,August
+2024-08-31,Belo Horizonte,Smartphone,8,270.53,0.05,2056.028,August
+2024-09-01,Belo Horizonte,Notebook,5,2019.65,0.0,10098.25,September
+2024-09-02,Belo Horizonte,Smartwatch,7,1819.26,0.1,11461.338,September
+2024-09-03,Curitiba,Smartwatch,2,292.77,0.05,556.2629999999999,September
+2024-09-04,São Paulo,Smartphone,8,796.97,0.0,6375.76,September
+2024-09-05,Curitiba,Fone de Ouvido,6,2185.48,0.15,11145.948,September
+2024-09-06,Belo Horizonte,Tablet,8,2565.75,0.05,19499.7,September
+2024-09-07,São Paulo,Tablet,1,2140.59,0.0,2140.59,September
+2024-09-08,Curitiba,Smartwatch,1,2748.5,0.05,2611.075,September
+2024-09-09,Curitiba,Smartphone,7,3056.63,0.0,21396.41,September
+2024-09-10,Belo Horizonte,Tablet,8,247.63,0.0,1981.04,September
+2024-09-11,São Paulo,Smartwatch,3,2427.66,0.15,6190.532999999999,September
+2024-09-12,Belo Horizonte,Fone de Ouvido,5,4824.8,0.05,22917.8,September
+2024-09-13,São Paulo,Tablet,1,2691.35,0.1,2422.215,September
+2024-09-14,Porto Alegre,Smartwatch,7,3452.2,0.15,20540.589999999997,September
+2024-09-15,Rio de Janeiro,Smartwatch,5,1696.95,0.15,7212.037499999999,September
+2024-09-16,Rio de Janeiro,Notebook,8,3915.16,0.0,31321.28,September
+2024-09-17,Rio de Janeiro,Fone de Ouvido,8,3910.02,0.1,28152.144,September
+2024-09-18,Belo Horizonte,Notebook,9,2702.22,0.05,23103.981,September
+2024-09-19,Porto Alegre,Smartphone,7,4884.87,0.1,30774.680999999997,September
+2024-09-20,São Paulo,Notebook,1,802.64,0.1,722.376,September
+2024-09-21,Curitiba,Notebook,3,281.35,0.1,759.6450000000001,September
+2024-09-22,São Paulo,Tablet,8,3896.76,0.1,28056.672000000002,September
+2024-09-23,Curitiba,Smartwatch,3,4074.35,0.1,11000.744999999999,September
+2024-09-24,São Paulo,Fone de Ouvido,8,776.99,0.0,6215.92,September
+2024-09-25,Porto Alegre,Notebook,1,1474.8,0.0,1474.8,September
+2024-09-26,Curitiba,Fone de Ouvido,5,284.25,0.15,1208.0625,September
+2024-09-27,Belo Horizonte,Notebook,4,1607.88,0.0,6431.52,September
+2024-09-28,São Paulo,Smartphone,5,3911.08,0.15,16622.09,September
+2024-09-29,São Paulo,Notebook,8,2686.21,0.15,18266.228,September
+2024-09-30,Curitiba,Tablet,4,1870.86,0.05,7109.267999999999,September
+2024-10-01,Belo Horizonte,Smartwatch,4,1984.35,0.1,7143.66,October
+2024-10-02,Belo Horizonte,Smartphone,3,206.5,0.0,619.5,October
+2024-10-03,Porto Alegre,Notebook,7,1639.04,0.05,10899.615999999998,October
+2024-10-04,Belo Horizonte,Fone de Ouvido,3,3303.0,0.0,9909.0,October
+2024-10-05,Belo Horizonte,Smartphone,3,4876.13,0.15,12434.1315,October
+2024-10-06,Belo Horizonte,Smartphone,5,4265.89,0.0,21329.45,October
+2024-10-07,Rio de Janeiro,Notebook,5,313.26,0.1,1409.67,October
+2024-10-08,Porto Alegre,Smartphone,6,4513.09,0.15,23016.759000000002,October
+2024-10-09,São Paulo,Fone de Ouvido,8,3959.35,0.15,26923.579999999998,October
+2024-10-10,Curitiba,Smartphone,6,3945.81,0.05,22491.117,October
+2024-10-11,São Paulo,Fone de Ouvido,1,2398.38,0.1,2158.5420000000004,October
+2024-10-12,Porto Alegre,Notebook,8,2110.43,0.15,14350.923999999999,October
+2024-10-13,Curitiba,Smartwatch,8,1654.0,0.1,11908.800000000001,October
+2024-10-14,Porto Alegre,Smartphone,9,515.34,0.0,4638.06,October
+2024-10-15,Belo Horizonte,Smartwatch,9,1295.53,0.1,10493.793000000001,October
+2024-10-16,Curitiba,Fone de Ouvido,2,1383.7,0.15,2352.29,October
+2024-10-17,Belo Horizonte,Smartphone,2,2523.57,0.05,4794.783,October
+2024-10-18,São Paulo,Tablet,3,3787.73,0.15,9658.7115,October
+2024-10-19,São Paulo,Smartwatch,1,2474.29,0.1,2226.861,October
+2024-10-20,Curitiba,Smartphone,4,477.65,0.1,1719.54,October
+2024-10-21,Curitiba,Smartwatch,4,4797.39,0.15,16311.126,October
+2024-10-22,Porto Alegre,Smartphone,9,4725.08,0.1,38273.148,October
+2024-10-23,Porto Alegre,Notebook,9,3968.91,0.0,35720.19,October
+2024-10-24,Belo Horizonte,Smartwatch,9,4958.37,0.15,37931.5305,October
+2024-10-25,Curitiba,Tablet,7,2813.52,0.05,18709.908,October
+2024-10-26,São Paulo,Tablet,2,4821.29,0.15,8196.193,October
+2024-10-27,Porto Alegre,Fone de Ouvido,5,562.9,0.0,2814.5,October
+2024-10-28,Porto Alegre,Smartphone,4,1955.27,0.0,7821.08,October
+2024-10-29,São Paulo,Smartwatch,8,1281.83,0.0,10254.64,October
+2024-10-30,Porto Alegre,Fone de Ouvido,2,1140.0,0.0,2280.0,October
+2024-10-31,Belo Horizonte,Smartwatch,6,875.85,0.0,5255.1,October
+2024-11-01,Curitiba,Smartphone,5,3187.59,0.05,15141.0525,November
+2024-11-02,São Paulo,Tablet,2,3950.34,0.1,7110.612,November
+2024-11-03,Curitiba,Notebook,1,2975.83,0.0,2975.83,November
+2024-11-04,Porto Alegre,Tablet,8,905.42,0.0,7243.36,November
+2024-11-05,Porto Alegre,Fone de Ouvido,2,4093.39,0.15,6958.763,November
+2024-11-06,São Paulo,Notebook,7,3252.58,0.05,21629.656999999996,November
+2024-11-07,Belo Horizonte,Fone de Ouvido,9,2063.2,0.05,17640.359999999997,November
+2024-11-08,Rio de Janeiro,Smartphone,9,3435.83,0.1,27830.223,November
+2024-11-09,São Paulo,Notebook,8,1447.54,0.05,11001.304,November
+2024-11-10,Rio de Janeiro,Fone de Ouvido,9,1856.92,0.15,14205.437999999998,November
+2024-11-11,Rio de Janeiro,Smartphone,2,4603.93,0.15,7826.6810000000005,November
+2024-11-12,Belo Horizonte,Tablet,6,1594.42,0.1,8609.868,November
+2024-11-13,Rio de Janeiro,Smartphone,4,2455.94,0.15,8350.196,November
+2024-11-14,Rio de Janeiro,Smartwatch,4,4472.68,0.0,17890.72,November
+2024-11-15,Belo Horizonte,Smartphone,5,3597.06,0.0,17985.3,November
+2024-11-16,Rio de Janeiro,Smartphone,3,498.58,0.15,1271.379,November
+2024-11-17,Rio de Janeiro,Smartwatch,1,907.05,0.1,816.345,November
+2024-11-18,Rio de Janeiro,Fone de Ouvido,8,237.64,0.05,1806.0639999999999,November
+2024-11-19,São Paulo,Fone de Ouvido,5,3228.42,0.1,14527.890000000001,November
+2024-11-20,São Paulo,Smartphone,3,2348.83,0.05,6694.165499999999,November
+2024-11-21,São Paulo,Smartwatch,7,844.52,0.15,5024.893999999999,November
+2024-11-22,Belo Horizonte,Smartwatch,7,4798.08,0.15,28548.575999999997,November
+2024-11-23,Porto Alegre,Tablet,1,2742.37,0.0,2742.37,November
+2024-11-24,Rio de Janeiro,Fone de Ouvido,9,1361.09,0.05,11637.3195,November
+2024-11-25,Rio de Janeiro,Notebook,2,2602.9,0.1,4685.22,November
+2024-11-26,Belo Horizonte,Fone de Ouvido,5,3462.18,0.15,14714.264999999998,November
+2024-11-27,Rio de Janeiro,Fone de Ouvido,5,565.95,0.1,2546.775,November
+2024-11-28,São Paulo,Tablet,8,1518.58,0.0,12148.64,November
+2024-11-29,Porto Alegre,Notebook,8,4073.43,0.05,30958.067999999996,November
+2024-11-30,Curitiba,Tablet,7,2406.39,0.05,16002.493499999999,November
+2024-12-01,Rio de Janeiro,Notebook,7,2823.57,0.15,16800.2415,December
+2024-12-02,São Paulo,Smartphone,6,2277.52,0.05,12981.863999999998,December
+2024-12-03,Curitiba,Notebook,6,410.72,0.15,2094.672,December
+2024-12-04,Porto Alegre,Tablet,9,995.6,0.0,8960.4,December
+2024-12-05,Curitiba,Fone de Ouvido,6,2338.6,0.05,13330.019999999999,December
+2024-12-06,São Paulo,Notebook,2,1204.09,0.15,2046.9529999999997,December
+2024-12-07,Curitiba,Notebook,2,439.9,0.1,791.8199999999999,December
+2024-12-08,Belo Horizonte,Smartwatch,5,4249.52,0.15,18060.460000000003,December
+2024-12-09,Curitiba,Fone de Ouvido,4,4909.72,0.05,18656.936,December
+2024-12-10,Rio de Janeiro,Smartphone,2,4007.09,0.0,8014.18,December
+2024-12-11,Rio de Janeiro,Tablet,3,4298.17,0.05,12249.7845,December
+2024-12-12,Belo Horizonte,Smartphone,7,1361.49,0.05,9053.9085,December
+2024-12-13,São Paulo,Fone de Ouvido,8,4811.01,0.15,32714.868000000002,December
+2024-12-14,Rio de Janeiro,Notebook,6,1145.24,0.1,6184.296,December
+2024-12-15,Porto Alegre,Notebook,5,4766.86,0.05,22642.585,December
+2024-12-16,Rio de Janeiro,Fone de Ouvido,1,4975.13,0.1,4477.617,December
+2024-12-17,Rio de Janeiro,Notebook,8,3616.27,0.15,24590.636,December
+2024-12-18,São Paulo,Notebook,3,4909.49,0.1,13255.623,December
+2024-12-19,Curitiba,Notebook,6,2933.79,0.15,14962.328999999998,December
+2024-12-20,Rio de Janeiro,Tablet,3,1445.8,0.0,4337.4,December
+2024-12-21,Belo Horizonte,Tablet,7,2297.58,0.1,14474.753999999999,December
+2024-12-22,Curitiba,Smartwatch,7,3049.09,0.1,19209.267,December
+2024-12-23,Porto Alegre,Smartphone,9,550.79,0.0,4957.11,December
+2024-12-24,São Paulo,Fone de Ouvido,5,3187.25,0.1,14342.625,December
+2024-12-25,Porto Alegre,Fone de Ouvido,8,4909.65,0.0,39277.2,December
+2024-12-26,Curitiba,Fone de Ouvido,8,1112.52,0.05,8455.152,December
+2024-12-27,Curitiba,Smartwatch,1,4004.46,0.15,3403.791,December
+2024-12-28,Curitiba,Tablet,5,4557.91,0.0,22789.55,December
+2024-12-29,Porto Alegre,Smartwatch,3,4729.77,0.1,12770.379,December
+2024-12-30,Curitiba,Fone de Ouvido,1,4808.65,0.0,4808.65,December
+2024-12-31,Porto Alegre,Smartphone,4,2703.01,0.1,9730.836000000001,December
+2025-01-01,Curitiba,Notebook,8,4891.08,0.05,37172.208,January
+2025-01-02,Belo Horizonte,Tablet,3,3835.09,0.0,11505.27,January
+2025-01-03,Curitiba,Tablet,2,976.02,0.05,1854.4379999999999,January
+2025-01-04,Porto Alegre,Smartwatch,9,2489.12,0.15,19041.767999999996,January
+2025-01-05,Rio de Janeiro,Tablet,5,3647.99,0.1,16415.954999999998,January
+2025-01-06,Curitiba,Fone de Ouvido,7,1387.23,0.1,8739.549,January
+2025-01-07,Rio de Janeiro,Fone de Ouvido,2,3274.95,0.05,6222.405,January
+2025-01-08,Belo Horizonte,Smartwatch,9,3399.68,0.15,26007.552,January
+2025-01-09,São Paulo,Fone de Ouvido,9,980.96,0.0,8828.64,January
+2025-01-10,Belo Horizonte,Smartphone,4,2912.41,0.0,11649.64,January
+2025-01-11,Curitiba,Smartwatch,4,3903.81,0.1,14053.716,January
+2025-01-12,Rio de Janeiro,Smartphone,6,2594.7,0.05,14789.789999999999,January
+2025-01-13,Rio de Janeiro,Notebook,6,258.09,0.05,1471.1129999999998,January
+2025-01-14,Porto Alegre,Smartphone,1,243.38,0.0,243.38,January
+2025-01-15,Rio de Janeiro,Notebook,9,1913.74,0.15,14640.110999999999,January
+2025-01-16,Porto Alegre,Notebook,2,4645.73,0.15,7897.740999999999,January
+2025-01-17,São Paulo,Smartphone,5,1297.65,0.0,6488.25,January
+2025-01-18,Curitiba,Smartwatch,9,3244.95,0.0,29204.55,January
+2025-01-19,Porto Alegre,Fone de Ouvido,4,1265.96,0.05,4810.648,January
+2025-01-20,São Paulo,Fone de Ouvido,3,1744.02,0.15,4447.250999999999,January
+2025-01-21,Rio de Janeiro,Notebook,7,4270.6,0.0,29894.200000000004,January
+2025-01-22,Rio de Janeiro,Notebook,6,3698.53,0.0,22191.18,January
+2025-01-23,São Paulo,Smartwatch,8,657.92,0.1,4737.023999999999,January
+2025-01-24,Rio de Janeiro,Tablet,3,2257.77,0.0,6773.3099999999995,January
+2025-01-25,São Paulo,Smartphone,5,340.01,0.0,1700.05,January
+2025-01-26,Porto Alegre,Notebook,4,2508.27,0.15,8528.118,January
+2025-01-27,Porto Alegre,Fone de Ouvido,4,3379.68,0.05,12842.784,January
+2025-01-28,São Paulo,Smartwatch,4,768.81,0.15,2613.9539999999997,January
+2025-01-29,Porto Alegre,Smartphone,8,1586.65,0.05,12058.54,January
+2025-01-30,Porto Alegre,Smartwatch,6,2109.62,0.1,11391.948,January
+2025-01-31,Porto Alegre,Smartphone,3,4613.75,0.0,13841.25,January
+2025-02-01,Belo Horizonte,Smartphone,5,4967.62,0.1,22354.29,February
+2025-02-02,Curitiba,Notebook,6,415.57,0.05,2368.749,February
+2025-02-03,Rio de Janeiro,Smartwatch,5,3852.84,0.15,16374.57,February
+2025-02-04,Belo Horizonte,Smartwatch,6,1984.28,0.15,10119.828,February
+2025-02-05,Porto Alegre,Fone de Ouvido,8,2083.8,0.1,15003.360000000002,February
+2025-02-06,São Paulo,Fone de Ouvido,7,3820.47,0.05,25406.125499999995,February
+2025-02-07,Porto Alegre,Notebook,5,4608.45,0.1,20738.025,February
+2025-02-08,Curitiba,Notebook,6,4764.46,0.1,25728.084000000003,February
+2025-02-09,Porto Alegre,Tablet,4,2970.19,0.0,11880.76,February
+2025-02-10,São Paulo,Fone de Ouvido,9,1914.18,0.1,15504.858,February
+2025-02-11,Curitiba,Smartphone,4,3980.24,0.0,15920.96,February
+2025-02-12,Porto Alegre,Smartwatch,1,1404.81,0.0,1404.81,February
+2025-02-13,Curitiba,Notebook,7,2907.56,0.15,17299.981999999996,February
+2025-02-14,Rio de Janeiro,Smartwatch,7,1921.18,0.0,13448.26,February
+2025-02-15,Rio de Janeiro,Smartwatch,4,3351.83,0.0,13407.32,February
+2025-02-16,Porto Alegre,Tablet,3,1353.91,0.15,3452.4705000000004,February
+2025-02-17,Curitiba,Fone de Ouvido,8,1119.65,0.1,8061.4800000000005,February
+2025-02-18,São Paulo,Notebook,5,4607.55,0.05,21885.8625,February
+2025-02-19,Porto Alegre,Smartwatch,7,688.66,0.05,4579.589,February
+2025-02-20,Rio de Janeiro,Notebook,4,2628.6,0.05,9988.679999999998,February
+2025-02-21,Rio de Janeiro,Smartphone,4,1260.09,0.1,4536.324,February
+2025-02-22,Porto Alegre,Tablet,8,386.86,0.0,3094.88,February
+2025-02-23,Curitiba,Smartphone,8,372.89,0.05,2833.964,February
+2025-02-24,Rio de Janeiro,Notebook,2,1041.06,0.1,1873.908,February
+2025-02-25,Curitiba,Notebook,2,4360.5,0.0,8721.0,February
+2025-02-26,Rio de Janeiro,Fone de Ouvido,3,1555.9,0.15,3967.5450000000005,February
+2025-02-27,Rio de Janeiro,Smartwatch,3,4762.2,0.05,13572.269999999999,February
+2025-02-28,Belo Horizonte,Smartwatch,1,2991.79,0.0,2991.79,February
+2025-03-01,Rio de Janeiro,Smartphone,3,2295.75,0.05,6542.8875,March
+2025-03-02,São Paulo,Tablet,6,2984.43,0.05,17011.250999999997,March
+2025-03-03,Porto Alegre,Smartwatch,8,2680.15,0.05,20369.14,March
+2025-03-04,Porto Alegre,Fone de Ouvido,6,3842.13,0.0,23052.78,March
+2025-03-05,Curitiba,Smartphone,5,1555.98,0.1,7001.91,March
+2025-03-06,Rio de Janeiro,Smartphone,4,1894.64,0.0,7578.56,March
+2025-03-07,São Paulo,Fone de Ouvido,3,4491.65,0.05,12801.202499999998,March
+2025-03-08,Curitiba,Tablet,4,4742.99,0.0,18971.96,March
+2025-03-09,Belo Horizonte,Fone de Ouvido,7,4484.28,0.15,26681.466,March
+2025-03-10,Curitiba,Tablet,1,2213.35,0.1,1992.0149999999999,March
+2025-03-11,Curitiba,Fone de Ouvido,7,3945.75,0.0,27620.25,March
+2025-03-12,Rio de Janeiro,Fone de Ouvido,1,2486.41,0.15,2113.4485,March
+2025-03-13,Belo Horizonte,Notebook,2,2588.19,0.1,4658.742,March
+2025-03-14,Curitiba,Smartphone,4,1182.46,0.15,4020.364,March
+2025-03-15,São Paulo,Fone de Ouvido,1,3037.43,0.1,2733.687,March
+2025-03-16,São Paulo,Fone de Ouvido,9,1093.45,0.0,9841.050000000001,March
+2025-03-17,Porto Alegre,Smartwatch,6,1791.51,0.15,9136.701,March
+2025-03-18,Belo Horizonte,Smartphone,1,4304.14,0.05,4088.933,March
+2025-03-19,Belo Horizonte,Smartwatch,1,1193.96,0.15,1014.866,March
+2025-03-20,Porto Alegre,Smartphone,6,541.56,0.1,2924.424,March
+2025-03-21,Curitiba,Smartwatch,4,531.24,0.0,2124.96,March
+2025-03-22,Belo Horizonte,Fone de Ouvido,4,4715.77,0.1,16976.772,March
+2025-03-23,São Paulo,Fone de Ouvido,6,2633.22,0.15,13429.421999999999,March
+2025-03-24,São Paulo,Notebook,7,2165.18,0.15,12882.820999999998,March
+2025-03-25,Rio de Janeiro,Smartwatch,9,4092.22,0.05,34988.48099999999,March
+2025-03-26,Belo Horizonte,Tablet,5,4211.96,0.0,21059.8,March
+2025-03-27,Curitiba,Notebook,9,1794.52,0.0,16150.68,March
+2025-03-28,Porto Alegre,Smartwatch,4,3529.37,0.15,11999.858,March
+2025-03-29,Porto Alegre,Smartwatch,2,3901.39,0.0,7802.78,March
+2025-03-30,Curitiba,Notebook,3,3342.32,0.05,9525.612000000001,March
+2025-03-31,Rio de Janeiro,Fone de Ouvido,1,927.66,0.1,834.894,March
+2025-04-01,Porto Alegre,Smartwatch,6,4404.24,0.0,26425.44,April
+2025-04-02,Belo Horizonte,Fone de Ouvido,6,2787.65,0.15,14217.015000000001,April
+2025-04-03,Rio de Janeiro,Notebook,1,1555.87,0.1,1400.283,April
+2025-04-04,Belo Horizonte,Fone de Ouvido,3,2241.1,0.1,6050.969999999999,April
+2025-04-05,São Paulo,Smartphone,5,380.34,0.05,1806.6149999999998,April
+2025-04-06,Rio de Janeiro,Tablet,3,813.76,0.15,2075.0879999999997,April
+2025-04-07,Porto Alegre,Smartwatch,3,3874.62,0.0,11623.86,April
+2025-04-08,Rio de Janeiro,Tablet,3,200.06,0.15,510.153,April
+2025-04-09,Rio de Janeiro,Fone de Ouvido,5,2199.52,0.1,9897.84,April
+2025-04-10,Rio de Janeiro,Smartwatch,5,2708.05,0.15,11509.2125,April
+2025-04-11,Rio de Janeiro,Fone de Ouvido,4,462.25,0.0,1849.0,April
+2025-04-12,Belo Horizonte,Smartphone,1,4870.78,0.0,4870.78,April
+2025-04-13,São Paulo,Notebook,5,1285.4,0.05,6105.65,April
+2025-04-14,Curitiba,Smartwatch,5,1660.15,0.0,8300.75,April
+2025-04-15,Rio de Janeiro,Smartphone,4,1658.92,0.0,6635.68,April
+2025-04-16,Porto Alegre,Smartphone,6,1306.0,0.15,6660.599999999999,April
+2025-04-17,Rio de Janeiro,Smartwatch,4,207.07,0.15,704.038,April
+2025-04-18,Porto Alegre,Fone de Ouvido,7,3700.86,0.1,23315.418,April
+2025-04-19,Belo Horizonte,Smartphone,7,4840.86,0.05,32191.718999999994,April
+2025-04-20,Porto Alegre,Tablet,2,1276.61,0.15,2170.2369999999996,April
+2025-04-21,Curitiba,Smartphone,3,3382.63,0.0,10147.89,April
+2025-04-22,São Paulo,Fone de Ouvido,1,3761.1,0.1,3384.99,April
+2025-04-23,Porto Alegre,Fone de Ouvido,8,4272.44,0.15,29052.591999999997,April
+2025-04-24,Porto Alegre,Tablet,9,2228.62,0.05,19054.700999999997,April
+2025-04-25,São Paulo,Smartphone,4,1654.07,0.05,6285.465999999999,April
+2025-04-26,Curitiba,Fone de Ouvido,6,1761.42,0.1,9511.668000000001,April
+2025-04-27,Rio de Janeiro,Smartwatch,9,3620.58,0.1,29326.698,April
+2025-04-28,Porto Alegre,Notebook,6,4120.54,0.1,22250.915999999997,April
+2025-04-29,São Paulo,Notebook,9,1071.75,0.1,8681.175000000001,April
+2025-04-30,Belo Horizonte,Notebook,4,1980.52,0.1,7129.872,April
+2025-05-01,São Paulo,Smartphone,8,4529.31,0.0,36234.48,May
+2025-05-02,Belo Horizonte,Tablet,9,4072.13,0.0,36649.17,May
+2025-05-03,Curitiba,Fone de Ouvido,4,4927.32,0.15,16752.888,May
+2025-05-04,Rio de Janeiro,Smartwatch,5,3820.39,0.05,18146.8525,May
+2025-05-05,São Paulo,Smartwatch,8,2087.34,0.0,16698.72,May
+2025-05-06,Porto Alegre,Smartphone,6,3035.06,0.0,18210.36,May
+2025-05-07,Curitiba,Notebook,7,3372.87,0.0,23610.09,May
+2025-05-08,São Paulo,Smartphone,3,576.59,0.15,1470.3045,May
+2025-05-09,Porto Alegre,Tablet,7,2813.59,0.1,17725.617000000002,May
+2025-05-10,São Paulo,Tablet,8,3604.74,0.15,24512.231999999996,May
+2025-05-11,Belo Horizonte,Fone de Ouvido,6,1003.14,0.05,5717.898,May
+2025-05-12,São Paulo,Fone de Ouvido,9,3947.03,0.05,33747.1065,May
+2025-05-13,São Paulo,Tablet,6,3002.11,0.05,17112.027,May
+2025-05-14,São Paulo,Tablet,9,4770.66,0.05,40789.143000000004,May
+2025-05-15,Curitiba,Tablet,4,403.63,0.0,1614.52,May
+2025-05-16,São Paulo,Smartphone,8,1473.57,0.0,11788.56,May
+2025-05-17,Porto Alegre,Tablet,4,3087.46,0.15,10497.364,May
+2025-05-18,Belo Horizonte,Smartwatch,2,1623.49,0.1,2922.282,May
+2025-05-19,Belo Horizonte,Notebook,9,3629.24,0.05,31030.001999999997,May
+2025-05-20,São Paulo,Tablet,5,3843.23,0.15,16333.7275,May
+2025-05-21,Curitiba,Notebook,4,692.08,0.0,2768.32,May
+2025-05-22,Curitiba,Smartphone,2,2666.5,0.0,5333.0,May
+2025-05-23,Porto Alegre,Notebook,1,2642.67,0.1,2378.4030000000002,May
+2025-05-24,São Paulo,Smartphone,7,1972.55,0.1,12427.065,May
+2025-05-25,Belo Horizonte,Smartwatch,6,4678.04,0.1,25261.415999999997,May
+2025-05-26,Curitiba,Smartphone,2,4172.03,0.15,7092.450999999999,May
+2025-05-27,São Paulo,Smartphone,8,3546.61,0.0,28372.88,May
+2025-05-28,Curitiba,Fone de Ouvido,4,3628.77,0.0,14515.08,May
+2025-05-29,Curitiba,Tablet,8,2416.24,0.1,17396.928,May
+2025-05-30,Belo Horizonte,Tablet,7,4620.77,0.05,30728.1205,May
+2025-05-31,Rio de Janeiro,Smartwatch,5,3534.06,0.1,15903.27,May
+2025-06-01,Porto Alegre,Smartwatch,8,3699.11,0.15,25153.948,June
+2025-06-02,Porto Alegre,Tablet,9,4336.12,0.1,35122.572,June
+2025-06-03,Belo Horizonte,Fone de Ouvido,5,1515.54,0.1,6819.93,June
+2025-06-04,Curitiba,Tablet,5,4073.94,0.15,17314.245,June
+2025-06-05,São Paulo,Fone de Ouvido,2,1137.15,0.1,2046.8700000000001,June
+2025-06-06,Curitiba,Smartwatch,5,1857.64,0.0,9288.2,June
+2025-06-07,Belo Horizonte,Notebook,3,1810.93,0.05,5161.1505,June
+2025-06-08,Porto Alegre,Smartwatch,7,4896.92,0.1,30850.596,June
+2025-06-09,Curitiba,Smartwatch,5,4311.38,0.15,18323.365,June
+2025-06-10,Porto Alegre,Smartphone,8,3565.62,0.05,27098.712,June
+2025-06-11,São Paulo,Smartphone,1,3689.87,0.15,3136.3894999999998,June
+2025-06-12,Porto Alegre,Smartphone,3,2897.95,0.05,8259.157499999998,June
+2025-06-13,Porto Alegre,Smartphone,3,4746.04,0.05,13526.213999999998,June
+2025-06-14,Rio de Janeiro,Fone de Ouvido,9,2582.04,0.1,20914.524,June
+2025-06-15,Rio de Janeiro,Tablet,5,2026.49,0.0,10132.45,June
+2025-06-16,Rio de Janeiro,Notebook,9,982.57,0.1,7958.817000000001,June
+2025-06-17,Porto Alegre,Smartwatch,9,3973.79,0.15,30399.4935,June
+2025-06-18,Belo Horizonte,Fone de Ouvido,1,3725.33,0.15,3166.5305,June
+2025-06-19,Porto Alegre,Notebook,2,2044.9,0.05,3885.31,June
+2025-06-20,Belo Horizonte,Fone de Ouvido,5,320.93,0.05,1524.4175,June
+2025-06-21,Belo Horizonte,Fone de Ouvido,4,4227.19,0.0,16908.76,June
+2025-06-22,Rio de Janeiro,Smartwatch,9,254.81,0.1,2063.9610000000002,June
+2025-06-23,Curitiba,Tablet,7,3577.76,0.15,21287.672,June
+2025-06-24,São Paulo,Smartphone,6,4857.23,0.05,27686.210999999996,June
+2025-06-25,Rio de Janeiro,Tablet,7,2300.77,0.0,16105.39,June
+2025-06-26,Rio de Janeiro,Smartwatch,1,1327.87,0.15,1128.6895,June
+2025-06-27,Curitiba,Smartwatch,1,3583.38,0.05,3404.211,June
+2025-06-28,São Paulo,Smartwatch,8,4122.22,0.15,28031.096,June
+2025-06-29,Porto Alegre,Notebook,2,2822.87,0.0,5645.74,June
+2025-06-30,Porto Alegre,Tablet,9,4841.77,0.0,43575.93000000001,June
+2025-07-01,Rio de Janeiro,Tablet,7,448.01,0.15,2665.6594999999998,July
+2025-07-02,São Paulo,Fone de Ouvido,6,2623.02,0.1,14164.307999999999,July
+2025-07-03,Rio de Janeiro,Fone de Ouvido,1,3648.58,0.15,3101.2929999999997,July
+2025-07-04,Belo Horizonte,Fone de Ouvido,1,4340.67,0.05,4123.6365,July
+2025-07-05,Rio de Janeiro,Smartwatch,2,1060.43,0.1,1908.7740000000001,July
+2025-07-06,Rio de Janeiro,Tablet,6,4040.02,0.05,23028.113999999998,July
+2025-07-07,Porto Alegre,Smartwatch,6,2852.99,0.15,14550.248999999998,July
+2025-07-08,Porto Alegre,Notebook,2,2103.46,0.1,3786.228,July
+2025-07-09,Porto Alegre,Fone de Ouvido,1,832.23,0.05,790.6184999999999,July
+2025-07-10,Belo Horizonte,Smartwatch,5,4353.42,0.15,18502.035,July
+2025-07-11,Porto Alegre,Smartwatch,5,954.91,0.15,4058.3675,July
+2025-07-12,São Paulo,Notebook,2,1686.98,0.1,3036.5640000000003,July
+2025-07-13,Curitiba,Smartphone,6,1592.22,0.15,8120.321999999999,July
+2025-07-14,São Paulo,Tablet,9,4382.79,0.0,39445.11,July
+2025-07-15,São Paulo,Smartphone,2,3428.97,0.05,6515.043,July
+2025-07-16,Porto Alegre,Fone de Ouvido,2,4024.07,0.05,7645.733,July
+2025-07-17,Curitiba,Smartwatch,3,1402.25,0.15,3575.7374999999997,July
+2025-07-18,Curitiba,Notebook,7,3199.4,0.15,19036.43,July
+2025-07-19,Curitiba,Notebook,6,2944.38,0.0,17666.28,July
+2025-07-20,Belo Horizonte,Tablet,8,4197.59,0.1,30222.648,July
+2025-07-21,Porto Alegre,Smartphone,8,4549.22,0.15,30934.696,July
+2025-07-22,Curitiba,Tablet,6,258.35,0.15,1317.585,July
+2025-07-23,Belo Horizonte,Smartwatch,3,3435.3,0.15,8760.015000000001,July
+2025-07-24,Rio de Janeiro,Tablet,3,448.81,0.15,1144.4655,July
+2025-07-25,Rio de Janeiro,Notebook,1,2834.52,0.05,2692.794,July
+2025-07-26,Belo Horizonte,Notebook,7,1580.64,0.15,9404.808,July
+2025-07-27,Belo Horizonte,Fone de Ouvido,5,1672.53,0.05,7944.517499999999,July
+2025-07-28,Porto Alegre,Fone de Ouvido,4,1894.2,0.15,6440.28,July
+2025-07-29,Porto Alegre,Smartwatch,4,3182.2,0.1,11455.92,July
+2025-07-30,Rio de Janeiro,Smartphone,4,1803.44,0.0,7213.76,July
+2025-07-31,Curitiba,Tablet,6,3716.96,0.1,20071.584000000003,July
+2025-08-01,Rio de Janeiro,Smartwatch,8,2141.73,0.15,14563.764,August
+2025-08-02,Curitiba,Fone de Ouvido,8,528.1,0.15,3591.08,August
+2025-08-03,Curitiba,Tablet,5,3962.05,0.15,16838.712499999998,August
+2025-08-04,Porto Alegre,Fone de Ouvido,6,1571.64,0.1,8486.856,August
+2025-08-05,São Paulo,Tablet,4,2277.28,0.15,7742.752,August
+2025-08-06,São Paulo,Smartphone,9,3490.13,0.1,28270.053000000004,August
+2025-08-07,Belo Horizonte,Smartwatch,8,1795.79,0.05,13648.003999999999,August
+2025-08-08,Porto Alegre,Tablet,1,471.61,0.0,471.61,August
+2025-08-09,Curitiba,Notebook,2,1994.82,0.0,3989.64,August
+2025-08-10,São Paulo,Notebook,9,4733.35,0.1,38340.135,August
+2025-08-11,Curitiba,Tablet,8,3280.33,0.05,24930.507999999998,August
+2025-08-12,São Paulo,Tablet,3,3423.1,0.1,9242.369999999999,August
+2025-08-13,São Paulo,Tablet,8,3234.95,0.05,24585.62,August
+2025-08-14,São Paulo,Notebook,1,1155.16,0.15,981.8860000000001,August
+2025-08-15,Porto Alegre,Notebook,4,2208.0,0.05,8390.4,August
+2025-08-16,Rio de Janeiro,Tablet,3,3804.51,0.05,10842.8535,August
+2025-08-17,Curitiba,Fone de Ouvido,6,686.59,0.05,3913.5629999999996,August
+2025-08-18,Porto Alegre,Fone de Ouvido,7,1533.69,0.0,10735.83,August
+2025-08-19,Porto Alegre,Smartphone,4,1526.33,0.05,5800.053999999999,August
+2025-08-20,Porto Alegre,Smartwatch,7,2273.69,0.15,13528.4555,August
+2025-08-21,Porto Alegre,Fone de Ouvido,9,4905.77,0.15,37529.14050000001,August
+2025-08-22,Porto Alegre,Notebook,2,524.01,0.15,890.817,August
+2025-08-23,Belo Horizonte,Fone de Ouvido,3,2689.76,0.05,7665.816000000001,August
+2025-08-24,Curitiba,Smartphone,5,1060.95,0.1,4774.275000000001,August
+2025-08-25,Porto Alegre,Smartphone,3,4859.25,0.1,13119.975,August
+2025-08-26,Curitiba,Smartwatch,8,743.86,0.15,5058.248,August
+2025-08-27,Belo Horizonte,Fone de Ouvido,8,2137.28,0.0,17098.24,August
+2025-08-28,Belo Horizonte,Notebook,8,3741.85,0.1,26941.32,August
+2025-08-29,Curitiba,Notebook,9,3581.86,0.05,30624.903,August
+2025-08-30,São Paulo,Tablet,4,2229.1,0.1,8024.76,August
+2025-08-31,Rio de Janeiro,Notebook,5,1863.32,0.15,7919.11,August
+2025-09-01,São Paulo,Smartwatch,5,2108.54,0.0,10542.7,September
+2025-09-02,São Paulo,Smartwatch,8,1468.53,0.1,10573.416,September
+2025-09-03,São Paulo,Notebook,7,1185.6,0.1,7469.279999999999,September
+2025-09-04,Porto Alegre,Notebook,9,2518.59,0.15,19267.2135,September
+2025-09-05,Belo Horizonte,Tablet,8,1488.96,0.0,11911.68,September
+2025-09-06,São Paulo,Notebook,2,1579.82,0.0,3159.64,September
+2025-09-07,Belo Horizonte,Tablet,4,3352.43,0.15,11398.261999999999,September
+2025-09-08,Curitiba,Tablet,6,4848.98,0.05,27639.185999999998,September
+2025-09-09,Rio de Janeiro,Notebook,2,3097.46,0.1,5575.428,September
+2025-09-10,Curitiba,Smartphone,7,569.5,0.05,3787.1749999999997,September
+2025-09-11,Curitiba,Smartphone,3,562.8,0.1,1519.56,September
+2025-09-12,Porto Alegre,Tablet,3,4766.83,0.1,12870.441,September
+2025-09-13,Rio de Janeiro,Notebook,2,1627.0,0.05,3091.2999999999997,September
+2025-09-14,Curitiba,Smartphone,8,641.92,0.15,4365.056,September
+2025-09-15,Curitiba,Notebook,6,3075.41,0.15,15684.590999999999,September
+2025-09-16,Rio de Janeiro,Notebook,1,3193.51,0.1,2874.159,September
+2025-09-17,Rio de Janeiro,Notebook,1,3312.82,0.15,2815.897,September
+2025-09-18,Curitiba,Fone de Ouvido,7,1483.53,0.1,9346.239,September
+2025-09-19,Rio de Janeiro,Notebook,8,272.53,0.15,1853.2039999999997,September
+2025-09-20,Curitiba,Fone de Ouvido,5,4832.07,0.1,21744.315,September
+2025-09-21,Curitiba,Tablet,5,1404.29,0.15,5968.2325,September
+2025-09-22,Porto Alegre,Smartphone,4,3444.93,0.0,13779.72,September
+2025-09-23,São Paulo,Smartphone,6,3591.82,0.05,20473.374,September
+2025-09-24,Curitiba,Smartphone,6,3128.04,0.0,18768.239999999998,September
+2025-09-25,Belo Horizonte,Smartphone,3,1701.96,0.05,4850.586,September
+2025-09-26,São Paulo,Smartphone,9,1501.26,0.05,12835.773,September
+2025-09-27,São Paulo,Smartphone,7,3068.81,0.1,19333.503,September
+2025-09-28,São Paulo,Smartphone,1,4357.26,0.05,4139.397,September
+2025-09-29,Porto Alegre,Tablet,7,4744.32,0.0,33210.24,September
+2025-09-30,Curitiba,Notebook,5,708.35,0.0,3541.75,September
+2025-10-01,Porto Alegre,Smartwatch,5,943.18,0.15,4008.5149999999994,October
+2025-10-02,Curitiba,Fone de Ouvido,2,4734.73,0.0,9469.46,October
+2025-10-03,Porto Alegre,Smartwatch,4,3735.37,0.15,12700.258,October
+2025-10-04,Porto Alegre,Smartwatch,6,4438.37,0.05,25298.709,October
+2025-10-05,Belo Horizonte,Notebook,7,1172.64,0.0,8208.480000000001,October
+2025-10-06,Porto Alegre,Notebook,5,3020.41,0.05,14346.947499999998,October
+2025-10-07,Rio de Janeiro,Notebook,9,3565.47,0.0,32089.23,October
+2025-10-08,Belo Horizonte,Smartphone,3,3464.54,0.0,10393.619999999999,October
+2025-10-09,Porto Alegre,Tablet,1,2159.13,0.15,1835.2605,October
+2025-10-10,São Paulo,Smartphone,4,273.9,0.05,1040.82,October
+2025-10-11,Rio de Janeiro,Tablet,9,2998.05,0.0,26982.45,October
+2025-10-12,Rio de Janeiro,Tablet,4,1414.89,0.1,5093.604,October
+2025-10-13,Rio de Janeiro,Smartwatch,2,2361.22,0.05,4486.317999999999,October
+2025-10-14,Belo Horizonte,Smartwatch,5,4796.39,0.05,22782.8525,October
+2025-10-15,Porto Alegre,Tablet,3,2115.37,0.05,6028.804499999999,October
+2025-10-16,Porto Alegre,Tablet,9,4231.05,0.15,32367.5325,October
+2025-10-17,São Paulo,Smartphone,4,1104.99,0.1,3977.964,October
+2025-10-18,São Paulo,Smartphone,6,3427.81,0.05,19538.517,October
+2025-10-19,Rio de Janeiro,Smartwatch,2,4889.63,0.0,9779.26,October
+2025-10-20,São Paulo,Notebook,6,689.09,0.0,4134.54,October
+2025-10-21,Belo Horizonte,Tablet,3,239.94,0.15,611.847,October
+2025-10-22,Porto Alegre,Smartphone,9,2281.2,0.0,20530.8,October
+2025-10-23,Rio de Janeiro,Smartwatch,2,644.6,0.05,1224.74,October
+2025-10-24,São Paulo,Smartphone,9,3792.24,0.0,34130.159999999996,October
+2025-10-25,Belo Horizonte,Tablet,5,4589.83,0.05,21801.6925,October
+2025-10-26,Belo Horizonte,Tablet,8,2283.3,0.0,18266.4,October
+2025-10-27,São Paulo,Fone de Ouvido,2,1441.82,0.1,2595.276,October
+2025-10-28,Porto Alegre,Notebook,6,2285.14,0.15,11654.214,October
+2025-10-29,São Paulo,Fone de Ouvido,3,3672.55,0.15,9365.0025,October
+2025-10-30,Rio de Janeiro,Smartwatch,5,243.46,0.1,1095.57,October
+2025-10-31,São Paulo,Smartphone,8,3029.38,0.1,21811.536,October
+2025-11-01,Belo Horizonte,Smartwatch,1,3143.8,0.15,2672.23,November
+2025-11-02,São Paulo,Tablet,5,3260.9,0.1,14674.050000000001,November
+2025-11-03,Porto Alegre,Fone de Ouvido,3,1361.71,0.05,3880.8735,November
+2025-11-04,Curitiba,Fone de Ouvido,4,3627.45,0.0,14509.8,November
+2025-11-05,São Paulo,Fone de Ouvido,2,638.68,0.15,1085.7559999999999,November
+2025-11-06,Porto Alegre,Smartwatch,9,1156.5,0.1,9367.65,November
+2025-11-07,Porto Alegre,Tablet,3,4411.86,0.05,12573.800999999998,November
+2025-11-08,Belo Horizonte,Smartphone,2,3745.87,0.15,6367.978999999999,November
+2025-11-09,Porto Alegre,Smartphone,9,265.98,0.1,2154.438,November
+2025-11-10,Porto Alegre,Smartwatch,7,1392.21,0.15,8283.649500000001,November
+2025-11-11,Porto Alegre,Fone de Ouvido,6,1229.15,0.1,6637.410000000001,November
+2025-11-12,Porto Alegre,Notebook,1,1499.87,0.15,1274.8894999999998,November
+2025-11-13,Rio de Janeiro,Smartwatch,5,1388.29,0.05,6594.3775,November
+2025-11-14,Rio de Janeiro,Smartwatch,3,500.13,0.05,1425.3704999999998,November
+2025-11-15,Belo Horizonte,Tablet,1,2402.91,0.0,2402.91,November
+2025-11-16,São Paulo,Smartphone,4,3717.12,0.15,12638.207999999999,November
+2025-11-17,Porto Alegre,Smartwatch,2,3112.31,0.0,6224.62,November
+2025-11-18,São Paulo,Smartwatch,2,3429.78,0.15,5830.626,November
+2025-11-19,São Paulo,Fone de Ouvido,3,589.52,0.1,1591.704,November
+2025-11-20,Belo Horizonte,Fone de Ouvido,8,4767.16,0.1,34323.552,November
+2025-11-21,Porto Alegre,Notebook,8,4224.76,0.0,33798.08,November
+2025-11-22,Porto Alegre,Tablet,7,4064.43,0.15,24183.3585,November
+2025-11-23,Curitiba,Notebook,6,4150.32,0.0,24901.92,November
+2025-11-24,São Paulo,Fone de Ouvido,9,4677.01,0.05,39988.4355,November
+2025-11-25,São Paulo,Smartphone,4,2812.42,0.0,11249.68,November
+2025-11-26,Rio de Janeiro,Fone de Ouvido,1,1161.35,0.0,1161.35,November
+2025-11-27,Curitiba,Tablet,8,3160.56,0.1,22756.032,November
+2025-11-28,Rio de Janeiro,Fone de Ouvido,7,3765.83,0.0,26360.809999999998,November
+2025-11-29,Rio de Janeiro,Tablet,7,3742.0,0.15,22264.899999999998,November
+2025-11-30,Rio de Janeiro,Tablet,3,2702.96,0.1,7297.992,November
+2025-12-01,Belo Horizonte,Tablet,4,528.6,0.0,2114.4,December
+2025-12-02,Belo Horizonte,Tablet,9,1981.34,0.05,16940.457,December
+2025-12-03,Rio de Janeiro,Tablet,6,4619.68,0.0,27718.08,December
+2025-12-04,Curitiba,Smartphone,5,3005.35,0.0,15026.75,December
+2025-12-05,São Paulo,Notebook,3,2783.99,0.0,8351.97,December
+2025-12-06,Curitiba,Smartwatch,9,1490.5,0.1,12073.050000000001,December
+2025-12-07,Porto Alegre,Notebook,5,1968.55,0.15,8366.3375,December
+2025-12-08,Belo Horizonte,Tablet,5,4497.66,0.05,21363.885,December
+2025-12-09,São Paulo,Smartphone,4,3399.02,0.0,13596.08,December
+2025-12-10,São Paulo,Fone de Ouvido,4,3979.46,0.15,13530.164,December
+2025-12-11,Porto Alegre,Smartphone,1,2380.86,0.15,2023.731,December
+2025-12-12,Porto Alegre,Tablet,7,3225.19,0.1,20318.697000000004,December
+2025-12-13,Rio de Janeiro,Smartphone,9,1392.24,0.05,11903.652,December
+2025-12-14,Belo Horizonte,Smartphone,3,3586.21,0.1,9682.767000000002,December
+2025-12-15,Belo Horizonte,Tablet,2,2252.49,0.15,3829.2329999999997,December
+2025-12-16,Curitiba,Smartphone,3,2324.22,0.15,5926.7609999999995,December
+2025-12-17,Rio de Janeiro,Smartwatch,1,3316.75,0.15,2819.2374999999997,December
+2025-12-18,Rio de Janeiro,Smartwatch,6,4694.15,0.1,25348.41,December
+2025-12-19,Rio de Janeiro,Smartphone,7,507.23,0.05,3373.0795,December
+2025-12-20,Rio de Janeiro,Fone de Ouvido,2,4158.77,0.0,8317.54,December
+2025-12-21,Belo Horizonte,Tablet,8,1603.44,0.1,11544.768,December
+2025-12-22,Belo Horizonte,Smartwatch,6,2330.81,0.15,11887.131,December
+2025-12-23,Rio de Janeiro,Fone de Ouvido,4,305.18,0.1,1098.6480000000001,December
+2025-12-24,Curitiba,Smartphone,5,1645.02,0.15,6991.335,December
+2025-12-25,São Paulo,Fone de Ouvido,8,2612.63,0.0,20901.04,December
+2025-12-26,São Paulo,Notebook,3,469.65,0.0,1408.9499999999998,December
+2025-12-27,Curitiba,Smartwatch,3,2557.26,0.05,7288.191000000001,December
+2025-12-28,Rio de Janeiro,Smartphone,4,4650.13,0.15,15810.442,December
+2025-12-29,Belo Horizonte,Tablet,1,705.89,0.05,670.5954999999999,December
+2025-12-30,São Paulo,Smartphone,9,3869.32,0.05,33082.686,December
+2025-12-31,Porto Alegre,Tablet,8,2166.42,0.0,17331.36,December
+2026-01-01,Porto Alegre,Smartphone,8,3344.83,0.1,24082.776,January
+2026-01-02,Curitiba,Fone de Ouvido,6,1449.14,0.1,7825.356000000001,January
+2026-01-03,Rio de Janeiro,Fone de Ouvido,7,965.56,0.05,6420.974,January
+2026-01-04,São Paulo,Fone de Ouvido,6,970.22,0.0,5821.32,January
+2026-01-05,Rio de Janeiro,Notebook,9,538.36,0.15,4118.454,January
+2026-01-06,São Paulo,Tablet,3,1091.1,0.1,2945.97,January
+2026-01-07,Curitiba,Fone de Ouvido,3,3388.25,0.05,9656.512499999999,January
+2026-01-08,Curitiba,Notebook,3,4432.11,0.1,11966.696999999998,January
+2026-01-09,Porto Alegre,Tablet,3,4107.8,0.1,11091.060000000001,January
+2026-01-10,Rio de Janeiro,Smartphone,9,3488.64,0.15,26688.095999999998,January
+2026-01-11,Porto Alegre,Notebook,4,730.07,0.0,2920.28,January
+2026-01-12,Rio de Janeiro,Smartwatch,7,1588.1,0.15,9449.195,January
+2026-01-13,Porto Alegre,Notebook,9,1687.07,0.0,15183.63,January
+2026-01-14,Belo Horizonte,Notebook,7,1399.79,0.1,8818.677,January
+2026-01-15,Belo Horizonte,Tablet,9,2672.03,0.05,22845.856499999998,January
+2026-01-16,Belo Horizonte,Smartphone,3,2770.66,0.15,7065.182999999999,January
+2026-01-17,Belo Horizonte,Smartwatch,4,1913.05,0.0,7652.2,January
+2026-01-18,São Paulo,Fone de Ouvido,8,1898.19,0.1,13666.968,January
+2026-01-19,Belo Horizonte,Fone de Ouvido,6,4177.07,0.0,25062.42,January
+2026-01-20,Curitiba,Notebook,5,3988.61,0.0,19943.05,January
+2026-01-21,Curitiba,Tablet,4,1677.42,0.0,6709.68,January
+2026-01-22,São Paulo,Tablet,8,4586.18,0.1,33020.49600000001,January
+2026-01-23,Belo Horizonte,Fone de Ouvido,1,4773.51,0.05,4534.8345,January
+2026-01-24,Belo Horizonte,Smartwatch,9,1768.36,0.05,15119.478,January
+2026-01-25,Belo Horizonte,Smartphone,1,1901.24,0.05,1806.1779999999999,January
+2026-01-26,Porto Alegre,Smartwatch,8,2627.04,0.0,21016.32,January
+2026-01-27,Rio de Janeiro,Smartphone,4,4717.38,0.1,16982.568,January
+2026-01-28,Porto Alegre,Fone de Ouvido,9,4406.33,0.0,39656.97,January
+2026-01-29,Rio de Janeiro,Smartphone,5,692.33,0.05,3288.5675,January
+2026-01-30,Belo Horizonte,Tablet,3,2085.11,0.05,5942.563499999999,January
+2026-01-31,Belo Horizonte,Notebook,9,2856.18,0.1,23135.058,January
+2026-02-01,Porto Alegre,Notebook,9,2615.04,0.0,23535.36,February
+2026-02-02,Porto Alegre,Fone de Ouvido,4,1130.54,0.15,3843.836,February
+2026-02-03,Rio de Janeiro,Tablet,4,4322.32,0.15,14695.887999999999,February
+2026-02-04,Curitiba,Smartwatch,8,3449.32,0.05,26214.832,February
+2026-02-05,Rio de Janeiro,Tablet,2,4221.96,0.1,7599.528,February
+2026-02-06,Porto Alegre,Notebook,9,4322.07,0.0,38898.63,February
+2026-02-07,Porto Alegre,Notebook,6,3792.11,0.0,22752.66,February
+2026-02-08,São Paulo,Tablet,9,2308.21,0.05,19735.195499999998,February
+2026-02-09,Porto Alegre,Tablet,8,3130.62,0.05,23792.712,February
+2026-02-10,São Paulo,Notebook,7,969.75,0.0,6788.25,February
+2026-02-11,Curitiba,Smartwatch,1,3433.5,0.0,3433.5,February
+2026-02-12,Rio de Janeiro,Fone de Ouvido,3,1060.42,0.05,3022.197,February
+2026-02-13,Rio de Janeiro,Fone de Ouvido,2,3530.96,0.0,7061.92,February
+2026-02-14,São Paulo,Tablet,5,1302.07,0.15,5533.7975,February
+2026-02-15,Rio de Janeiro,Fone de Ouvido,5,764.25,0.05,3630.1875,February
+2026-02-16,Porto Alegre,Notebook,5,993.37,0.0,4966.85,February
+2026-02-17,Belo Horizonte,Notebook,4,209.56,0.05,796.328,February
+2026-02-18,São Paulo,Tablet,5,3649.95,0.1,16424.775,February
+2026-02-19,Rio de Janeiro,Tablet,3,3715.53,0.05,10589.2605,February
+2026-02-20,São Paulo,Tablet,1,2671.68,0.05,2538.0959999999995,February
+2026-02-21,São Paulo,Smartwatch,5,974.54,0.1,4385.43,February
+2026-02-22,Belo Horizonte,Fone de Ouvido,9,601.06,0.15,4598.1089999999995,February
+2026-02-23,Porto Alegre,Tablet,9,291.82,0.0,2626.38,February
+2026-02-24,São Paulo,Smartphone,4,995.59,0.1,3584.1240000000003,February
+2026-02-25,Rio de Janeiro,Smartphone,3,4476.11,0.05,12756.913499999997,February
+2026-02-26,Curitiba,Notebook,1,1359.38,0.0,1359.38,February
+2026-02-27,São Paulo,Fone de Ouvido,2,1900.5,0.1,3420.9,February
+2026-02-28,São Paulo,Tablet,8,705.66,0.0,5645.28,February
+2026-03-01,Belo Horizonte,Smartphone,1,1267.33,0.0,1267.33,March
+2026-03-02,Porto Alegre,Fone de Ouvido,8,2692.28,0.1,19384.416,March
+2026-03-03,Curitiba,Notebook,7,3117.21,0.0,21820.47,March
+2026-03-04,Rio de Janeiro,Smartwatch,8,1377.69,0.15,9368.292,March
+2026-03-05,Curitiba,Fone de Ouvido,6,477.11,0.1,2576.394,March
+2026-03-06,Rio de Janeiro,Fone de Ouvido,9,2076.96,0.15,15888.743999999999,March
+2026-03-07,Porto Alegre,Smartwatch,3,1324.18,0.05,3773.913,March
+2026-03-08,Rio de Janeiro,Fone de Ouvido,4,1253.86,0.0,5015.44,March
+2026-03-09,Belo Horizonte,Notebook,6,4807.34,0.05,27401.838,March
+2026-03-10,Belo Horizonte,Notebook,8,3158.24,0.05,24002.623999999996,March
+2026-03-11,Belo Horizonte,Smartwatch,5,2873.02,0.0,14365.1,March
+2026-03-12,Belo Horizonte,Tablet,3,2195.72,0.1,5928.444,March
+2026-03-13,Curitiba,Smartphone,6,2258.93,0.0,13553.579999999998,March
+2026-03-14,Porto Alegre,Tablet,4,2796.34,0.05,10626.092,March
+2026-03-15,Rio de Janeiro,Fone de Ouvido,9,3542.86,0.05,30291.453,March
+2026-03-16,Rio de Janeiro,Smartphone,3,3570.3,0.1,9639.810000000001,March
+2026-03-17,Belo Horizonte,Smartwatch,4,1024.13,0.0,4096.52,March
+2026-03-18,Belo Horizonte,Smartwatch,7,2600.54,0.05,17293.590999999997,March
+2026-03-19,São Paulo,Smartphone,7,2177.4,0.15,12955.53,March
+2026-03-20,Porto Alegre,Notebook,4,4378.53,0.05,16638.413999999997,March
+2026-03-21,Curitiba,Smartphone,6,3230.81,0.05,18415.617,March
+2026-03-22,Rio de Janeiro,Fone de Ouvido,3,2756.02,0.1,7441.254,March
+2026-03-23,São Paulo,Notebook,6,753.89,0.15,3844.839,March
+2026-03-24,São Paulo,Smartwatch,2,3107.06,0.05,5903.414,March
+2026-03-25,Rio de Janeiro,Smartphone,8,762.58,0.05,5795.608,March
+2026-03-26,Curitiba,Tablet,2,1818.59,0.15,3091.6029999999996,March
+2026-03-27,São Paulo,Tablet,7,885.64,0.0,6199.48,March
+2026-03-28,São Paulo,Fone de Ouvido,9,3521.95,0.0,31697.55,March
+2026-03-29,Porto Alegre,Tablet,1,1190.01,0.05,1130.5095,March
+2026-03-30,Curitiba,Smartphone,8,2080.92,0.05,15814.992,March
+2026-03-31,São Paulo,Smartphone,7,4499.24,0.0,31494.68,March
+2026-04-01,Curitiba,Tablet,6,1180.72,0.1,6375.888,April
+2026-04-02,Rio de Janeiro,Smartphone,6,2637.46,0.15,13451.046,April
+2026-04-03,Belo Horizonte,Fone de Ouvido,6,2212.5,0.15,11283.75,April
+2026-04-04,São Paulo,Notebook,9,287.0,0.1,2324.7000000000003,April
+2026-04-05,Porto Alegre,Fone de Ouvido,2,4005.24,0.1,7209.432,April
+2026-04-06,Rio de Janeiro,Fone de Ouvido,1,531.42,0.1,478.27799999999996,April
+2026-04-07,Curitiba,Smartphone,6,2476.42,0.1,13372.668000000001,April
+2026-04-08,Rio de Janeiro,Notebook,8,2891.26,0.1,20817.072000000004,April
+2026-04-09,São Paulo,Smartphone,3,3216.45,0.1,8684.414999999999,April
+2026-04-10,Curitiba,Smartwatch,1,3505.43,0.15,2979.6155,April
+2026-04-11,Belo Horizonte,Smartphone,9,1415.71,0.1,11467.251,April
+2026-04-12,Rio de Janeiro,Smartphone,1,247.9,0.0,247.9,April
+2026-04-13,São Paulo,Smartphone,3,3672.53,0.1,9915.831,April
+2026-04-14,Porto Alegre,Notebook,8,2771.15,0.1,19952.280000000002,April
+2026-04-15,Curitiba,Smartphone,3,4213.36,0.15,10744.067999999997,April
+2026-04-16,Rio de Janeiro,Notebook,4,4142.66,0.15,14085.044,April
+2026-04-17,Rio de Janeiro,Tablet,8,4247.97,0.1,30585.384000000002,April
+2026-04-18,Belo Horizonte,Smartwatch,1,2528.45,0.15,2149.1825,April
+2026-04-19,Belo Horizonte,Notebook,6,1801.42,0.05,10268.094,April
+2026-04-20,Porto Alegre,Tablet,1,3999.48,0.15,3399.558,April
+2026-04-21,Porto Alegre,Notebook,1,2366.21,0.15,2011.2785,April
+2026-04-22,São Paulo,Notebook,8,1080.52,0.15,7347.536,April
+2026-04-23,São Paulo,Smartwatch,4,4303.88,0.15,14633.192,April
+2026-04-24,Porto Alegre,Fone de Ouvido,1,4436.29,0.0,4436.29,April
+2026-04-25,Porto Alegre,Fone de Ouvido,7,2438.29,0.0,17068.03,April
+2026-04-26,Curitiba,Notebook,5,563.36,0.0,2816.8,April
+2026-04-27,Belo Horizonte,Smartphone,5,2061.57,0.1,9277.065,April
+2026-04-28,São Paulo,Tablet,1,4056.98,0.1,3651.282,April
+2026-04-29,Belo Horizonte,Smartphone,6,4528.52,0.05,25812.564000000002,April
+2026-04-30,Belo Horizonte,Smartphone,9,1176.67,0.0,10590.03,April
+2026-05-01,Porto Alegre,Notebook,9,521.47,0.1,4223.907,May
+2026-05-02,Curitiba,Notebook,8,4411.28,0.15,29996.703999999998,May
+2026-05-03,Rio de Janeiro,Notebook,5,2069.14,0.15,8793.845,May
+2026-05-04,Curitiba,Notebook,1,2800.45,0.0,2800.45,May
+2026-05-05,Curitiba,Fone de Ouvido,9,4846.72,0.05,41439.456,May
+2026-05-06,Belo Horizonte,Notebook,1,519.51,0.05,493.5345,May
+2026-05-07,Curitiba,Fone de Ouvido,8,3311.93,0.15,22521.124,May
+2026-05-08,São Paulo,Fone de Ouvido,5,555.71,0.05,2639.6225,May
+2026-05-09,Belo Horizonte,Notebook,3,2002.25,0.0,6006.75,May
+2026-05-10,São Paulo,Smartwatch,7,4058.31,0.15,24146.944499999998,May
+2026-05-11,Rio de Janeiro,Tablet,7,2280.67,0.1,14368.221000000001,May
+2026-05-12,Belo Horizonte,Smartphone,9,4986.48,0.1,40390.488,May
+2026-05-13,Rio de Janeiro,Fone de Ouvido,7,2883.48,0.05,19175.142,May
+2026-05-14,Belo Horizonte,Tablet,3,1741.58,0.15,4441.0289999999995,May
+2026-05-15,Porto Alegre,Smartwatch,1,1256.53,0.15,1068.0505,May
+2026-05-16,Curitiba,Smartphone,8,1882.5,0.1,13554.0,May
+2026-05-17,Porto Alegre,Smartphone,3,1988.16,0.15,5069.808,May
+2026-05-18,Rio de Janeiro,Fone de Ouvido,8,529.83,0.15,3602.844,May
+2026-05-19,Curitiba,Notebook,8,1973.96,0.15,13422.928,May
+2026-05-20,Belo Horizonte,Smartwatch,5,2428.34,0.05,11534.615,May
+2026-05-21,Curitiba,Fone de Ouvido,1,3669.14,0.15,3118.769,May
+2026-05-22,São Paulo,Smartwatch,7,3352.3,0.0,23466.100000000002,May
+2026-05-23,Curitiba,Notebook,5,3602.08,0.05,17109.88,May
+2026-05-24,São Paulo,Notebook,8,240.15,0.15,1633.02,May
+2026-05-25,Curitiba,Fone de Ouvido,9,1244.8,0.15,9522.72,May
+2026-05-26,São Paulo,Notebook,7,3376.08,0.0,23632.559999999998,May
+2026-05-27,Rio de Janeiro,Tablet,7,2523.15,0.05,16778.9475,May
+2026-05-28,Porto Alegre,Smartphone,1,225.5,0.1,202.95000000000002,May
+2026-05-29,Belo Horizonte,Fone de Ouvido,4,4061.57,0.1,14621.652,May
+2026-05-30,Curitiba,Smartwatch,2,3909.49,0.05,7428.030999999999,May
+2026-05-31,Porto Alegre,Tablet,2,2832.41,0.15,4815.097,May
+2026-06-01,Belo Horizonte,Fone de Ouvido,2,519.02,0.15,882.334,June
+2026-06-02,Belo Horizonte,Notebook,4,3879.27,0.1,13965.372,June
+2026-06-03,São Paulo,Notebook,1,3001.83,0.1,2701.647,June
+2026-06-04,Rio de Janeiro,Notebook,4,3953.41,0.1,14232.276,June
+2026-06-05,Rio de Janeiro,Notebook,2,3808.39,0.0,7616.78,June
+2026-06-06,Porto Alegre,Smartwatch,5,4054.41,0.1,18244.845,June
+2026-06-07,Rio de Janeiro,Tablet,3,2686.44,0.0,8059.32,June
+2026-06-08,Curitiba,Smartphone,8,873.56,0.05,6639.056,June
+2026-06-09,Rio de Janeiro,Smartwatch,4,3421.56,0.15,11633.304,June
+2026-06-10,Porto Alegre,Smartwatch,1,3178.27,0.1,2860.443,June
+2026-06-11,Rio de Janeiro,Smartphone,1,3762.82,0.15,3198.397,June
+2026-06-12,Curitiba,Smartphone,3,1015.43,0.15,2589.3465,June
+2026-06-13,São Paulo,Notebook,9,1135.88,0.1,9200.628000000002,June
+2026-06-14,Porto Alegre,Smartwatch,7,4473.97,0.1,28186.011000000002,June
+2026-06-15,São Paulo,Fone de Ouvido,2,3799.89,0.05,7219.790999999999,June
+2026-06-16,São Paulo,Smartphone,9,4559.5,0.0,41035.5,June
+2026-06-17,São Paulo,Smartphone,2,3841.83,0.0,7683.66,June
+2026-06-18,Belo Horizonte,Tablet,3,3066.35,0.15,7819.192499999999,June
+2026-06-19,Belo Horizonte,Fone de Ouvido,2,3339.84,0.1,6011.712,June
+2026-06-20,São Paulo,Fone de Ouvido,3,4467.81,0.05,12733.2585,June
+2026-06-21,Porto Alegre,Smartphone,6,2978.27,0.05,16976.139,June
+2026-06-22,Curitiba,Notebook,9,3235.48,0.05,27663.354,June
+2026-06-23,Curitiba,Tablet,9,951.09,0.05,8131.819499999999,June
+2026-06-24,Rio de Janeiro,Fone de Ouvido,7,2474.82,0.05,16457.553,June
+2026-06-25,Porto Alegre,Smartphone,3,3638.71,0.0,10916.130000000001,June
+2026-06-26,Belo Horizonte,Fone de Ouvido,4,1500.52,0.0,6002.08,June
+2026-06-27,São Paulo,Tablet,6,1170.82,0.0,7024.92,June
+2026-06-28,Rio de Janeiro,Tablet,5,1706.37,0.1,7678.664999999999,June
+2026-06-29,Curitiba,Smartwatch,2,1359.2,0.15,2310.64,June
+2026-06-30,Belo Horizonte,Smartphone,6,1231.58,0.05,7020.005999999999,June
+2026-07-01,Belo Horizonte,Tablet,3,2239.28,0.1,6046.0560000000005,July
+2026-07-02,São Paulo,Smartwatch,8,4557.62,0.05,34637.912,July
+2026-07-03,Curitiba,Smartwatch,2,2633.89,0.0,5267.78,July
+2026-07-04,Porto Alegre,Fone de Ouvido,1,1102.02,0.1,991.818,July
+2026-07-05,Belo Horizonte,Fone de Ouvido,9,569.46,0.0,5125.14,July
+2026-07-06,São Paulo,Smartwatch,3,3541.55,0.05,10093.417500000001,July
+2026-07-07,Porto Alegre,Fone de Ouvido,1,2037.43,0.05,1935.5584999999999,July
+2026-07-08,Curitiba,Tablet,7,4144.79,0.15,24661.5005,July
+2026-07-09,Belo Horizonte,Notebook,5,3365.65,0.05,15986.8375,July
+2026-07-10,Porto Alegre,Tablet,5,4021.96,0.0,20109.8,July
+2026-07-11,Porto Alegre,Smartwatch,1,1505.34,0.05,1430.0729999999999,July
+2026-07-12,Porto Alegre,Smartwatch,9,3523.32,0.15,26953.398,July
+2026-07-13,Belo Horizonte,Tablet,7,1467.5,0.15,8731.625,July
+2026-07-14,Belo Horizonte,Fone de Ouvido,8,4707.53,0.0,37660.24,July
+2026-07-15,Rio de Janeiro,Fone de Ouvido,9,3254.6,0.1,26362.26,July
+2026-07-16,Curitiba,Smartwatch,6,1757.66,0.05,10018.662,July
+2026-07-17,São Paulo,Smartphone,5,1493.66,0.15,6348.055,July
+2026-07-18,Porto Alegre,Fone de Ouvido,6,1116.45,0.05,6363.765,July
+2026-07-19,Rio de Janeiro,Tablet,2,3534.28,0.05,6715.1320000000005,July
+2026-07-20,São Paulo,Fone de Ouvido,4,1249.83,0.1,4499.388,July
+2026-07-21,Rio de Janeiro,Tablet,3,3057.46,0.15,7796.523000000001,July
+2026-07-22,Belo Horizonte,Smartwatch,7,1470.25,0.05,9777.1625,July
+2026-07-23,Porto Alegre,Fone de Ouvido,9,3377.45,0.15,25837.4925,July
+2026-07-24,São Paulo,Tablet,5,4111.71,0.0,20558.55,July
+2026-07-25,São Paulo,Smartwatch,6,3934.52,0.0,23607.12,July
+2026-07-26,São Paulo,Smartphone,2,3852.09,0.05,7318.971,July
+2026-07-27,São Paulo,Tablet,3,1101.07,0.15,2807.7285,July
+2026-07-28,São Paulo,Smartphone,3,624.25,0.05,1779.1125,July
+2026-07-29,Rio de Janeiro,Smartphone,9,3554.95,0.15,27195.3675,July
+2026-07-30,Porto Alegre,Notebook,7,1968.07,0.15,11710.0165,July
+2026-07-31,Belo Horizonte,Fone de Ouvido,8,2275.26,0.1,16381.872000000001,July
+2026-08-01,Belo Horizonte,Tablet,9,349.52,0.1,2831.112,August
+2026-08-02,Belo Horizonte,Smartphone,6,1445.97,0.1,7808.238,August
+2026-08-03,Belo Horizonte,Notebook,4,361.65,0.05,1374.2699999999998,August
+2026-08-04,Rio de Janeiro,Smartwatch,1,4420.09,0.1,3978.081,August
+2026-08-05,Curitiba,Tablet,8,1368.3,0.1,9851.76,August
+2026-08-06,Porto Alegre,Smartphone,7,2875.22,0.0,20126.539999999997,August
+2026-08-07,São Paulo,Fone de Ouvido,2,387.1,0.15,658.07,August
+2026-08-08,Curitiba,Notebook,8,3400.87,0.15,23125.915999999997,August
+2026-08-09,Belo Horizonte,Smartphone,5,1750.53,0.1,7877.385,August
+2026-08-10,Curitiba,Fone de Ouvido,7,4510.01,0.15,26834.5595,August
+2026-08-11,Porto Alegre,Smartphone,4,4462.97,0.0,17851.88,August
+2026-08-12,São Paulo,Tablet,5,1761.39,0.0,8806.95,August
+2026-08-13,São Paulo,Tablet,8,4524.61,0.1,32577.192,August
+2026-08-14,Porto Alegre,Tablet,1,4981.56,0.0,4981.56,August
+2026-08-15,Porto Alegre,Notebook,1,4162.0,0.15,3537.7,August
+2026-08-16,Belo Horizonte,Tablet,4,4255.38,0.05,16170.444,August
+2026-08-17,São Paulo,Fone de Ouvido,3,1395.24,0.15,3557.862,August
+2026-08-18,Curitiba,Smartphone,2,2968.17,0.05,5639.523,August
+2026-08-19,Rio de Janeiro,Smartwatch,3,522.83,0.1,1411.6410000000003,August
+2026-08-20,Rio de Janeiro,Fone de Ouvido,1,655.61,0.05,622.8294999999999,August
+2026-08-21,Porto Alegre,Fone de Ouvido,1,4994.68,0.0,4994.68,August
+2026-08-22,Belo Horizonte,Tablet,6,1767.87,0.15,9016.136999999999,August
+2026-08-23,Rio de Janeiro,Notebook,5,3791.28,0.05,18008.58,August
+2026-08-24,São Paulo,Smartphone,8,4071.99,0.15,27689.532,August
+2026-08-25,Porto Alegre,Notebook,2,4318.51,0.1,7773.318,August
+2026-08-26,Curitiba,Smartphone,4,4988.62,0.1,17959.032,August
+2026-08-27,Porto Alegre,Smartphone,8,1359.18,0.0,10873.44,August
+2026-08-28,Curitiba,Notebook,6,393.68,0.1,2125.872,August
+2026-08-29,Porto Alegre,Fone de Ouvido,1,2173.72,0.05,2065.0339999999997,August
+2026-08-30,Porto Alegre,Smartphone,4,824.39,0.1,2967.804,August
+2026-08-31,Porto Alegre,Notebook,1,307.64,0.0,307.64,August
+2026-09-01,Curitiba,Smartphone,2,1930.05,0.15,3281.085,September
+2026-09-02,Curitiba,Smartwatch,5,3961.94,0.15,16838.245,September
+2026-09-03,Porto Alegre,Fone de Ouvido,8,2917.67,0.1,21007.224000000002,September
+2026-09-04,Rio de Janeiro,Tablet,8,1701.33,0.05,12930.107999999998,September
+2026-09-05,Belo Horizonte,Smartphone,3,3340.84,0.0,10022.52,September
+2026-09-06,Belo Horizonte,Smartwatch,4,1313.69,0.05,4992.022,September
+2026-09-07,Belo Horizonte,Tablet,6,269.03,0.0,1614.1799999999998,September
+2026-09-08,Curitiba,Tablet,3,3868.9,0.1,10446.03,September
+2026-09-09,Curitiba,Smartphone,2,3193.97,0.0,6387.94,September
+2026-09-10,Rio de Janeiro,Notebook,6,3859.05,0.0,23154.300000000003,September
+2026-09-11,Belo Horizonte,Smartphone,5,386.9,0.1,1741.05,September
+2026-09-12,Belo Horizonte,Smartwatch,5,4218.17,0.05,20036.3075,September
+2026-09-13,Porto Alegre,Tablet,5,3173.73,0.1,14281.785,September
+2026-09-14,Curitiba,Smartphone,5,2904.3,0.0,14521.5,September
+2026-09-15,Belo Horizonte,Notebook,3,3198.15,0.1,8635.005000000001,September
+2026-09-16,Rio de Janeiro,Smartphone,7,4349.28,0.0,30444.96,September
+2026-09-17,Rio de Janeiro,Fone de Ouvido,6,3017.3,0.1,16293.420000000004,September
+2026-09-18,Belo Horizonte,Notebook,4,2988.56,0.15,10161.104,September
+2026-09-19,Curitiba,Smartwatch,2,4955.26,0.15,8423.942000000001,September
+2026-09-20,Rio de Janeiro,Tablet,9,3832.3,0.1,31041.630000000005,September
+2026-09-21,Porto Alegre,Smartphone,1,2323.01,0.05,2206.8595,September
+2026-09-22,Rio de Janeiro,Notebook,4,3595.51,0.0,14382.04,September
+2026-09-23,São Paulo,Fone de Ouvido,1,2068.31,0.15,1758.0635,September
+2026-09-24,São Paulo,Notebook,6,1298.6,0.05,7402.0199999999995,September
+2026-09-25,Curitiba,Fone de Ouvido,4,3064.89,0.0,12259.56,September
+2026-09-26,Belo Horizonte,Smartwatch,5,4655.27,0.15,19784.897500000003,September

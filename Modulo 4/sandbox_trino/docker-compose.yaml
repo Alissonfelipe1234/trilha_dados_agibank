@@ -16,5 +16,12 @@ services:
     depends_on:
       - postgres_container # Só começa depois do banco Postgres estar ativo
 
-
-# docker-compose -f docker-compose.yaml up -d
+  # pyspark_container:
+  #   image: jupyter/pyspark-notebook:latest
+  #   ports:
+  #     - "8889:8888" # Porta do Jupyter
+  #   volumes:
+  #     - ./notebooks:/home/jovyan/work # Pasta para salvar os notebooks
+  #   environment:
+  #     - JUPYTER_TOKEN=spark # Senha fácil para entrar
+# docker-compose up -d

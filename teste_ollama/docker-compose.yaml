@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  # Serviço do Ollama (O Cérebro)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama_server
+    ports:
+      - "11434:11434" # A porta padrão da API
+    volumes:
+      # CRÍTICO: Mapear volume para não perder o modelo baixado
+      # se reiniciar o container.
+      - ./ollama_data:/root/.ollama
+    # Se tiver GPU Nvidia, descomentar abaixo (opcional):
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]

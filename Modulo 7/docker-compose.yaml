@@ -1,0 +1,11 @@
+services:
+  spark:
+    image: jupyter/pyspark-notebook:latest
+    container_name: spark_master
+    ports:
+      - "8888:8888" # Porta do Jupyter
+      - "4040:4040" # Porta da UI do Spark
+    environment:
+      - JUPYTER_TOKEN=spark
+    volumes:
+      - ./work:/home/jovyan/work

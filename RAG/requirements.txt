@@ -1,5 +1,9 @@
 langchain
+langchain-core
+langchain_classic
 langchain-community
 langchain-chroma
+langchain-text-splitters
+langchain-huggingface
 pypdf
 sentence-transformers

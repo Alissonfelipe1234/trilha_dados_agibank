@@ -1,0 +1,16 @@
+services:
+  mariadb:
+    image: mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: alisson123
+      MARIADB_DATABASE: agiteca_db
+      MARIADB_USER: agiteca_app
+      MARIADB_PASSWORD: gustavo_é_987
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./dados_mariadb:/var/lib/mysql # Persistência de dados
+  adminer:
+    image: adminer
+    ports:
+      - 8080:8080
